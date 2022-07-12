@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #94b49f;
+  min-height: 2rem;
+}
+.navbar ul {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.navbar li {
+  padding: 1rem;
+}
+.navbar a {
+  color: #eb1d36;
+}

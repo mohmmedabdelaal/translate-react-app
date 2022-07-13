@@ -19,6 +19,10 @@ const items = [
     title: 'How do you use React?',
     content: 'You use React by creating components',
   },
+  {
+    title: 'What React hooks is?',
+    content: 'React hooks is helpers functions used in function component',
+  },
 ];
 
 const options = [
